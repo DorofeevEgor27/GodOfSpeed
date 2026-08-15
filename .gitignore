@@ -7,12 +7,19 @@
 #
 .utmp/
 /[Ll]ibrary/
+/GodOfSpeed/[Ll]ibrary/
 /[Tt]emp/
+/GodOfSpeed/[Tt]emp/
 /[Oo]bj/
+/GodOfSpeed/[Oo]bj/
 /[Bb]uild/
+/GodOfSpeed/[Bb]uild/
 /[Bb]uilds/
+/GodOfSpeed/[Bb]uilds/
 /[Ll]ogs/
+/GodOfSpeed/[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/GodOfSpeed/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
@@ -22,9 +29,11 @@
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
+/GodOfSpeed/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
+/GodOfSpeed/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
