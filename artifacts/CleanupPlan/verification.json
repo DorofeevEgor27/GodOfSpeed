@@ -1,0 +1,14 @@
+{
+  "checkedAssets": 74,
+  "missing": [],
+  "contentDifferences": [
+    "Assets/Prefabs/Car_RedBox.prefab -> Assets/Prefabs/Cars/Car_Base.prefab"
+  ],
+  "scene": "Assets/Scenes/ForestStudy.unity",
+  "isDirty": false,
+  "playing": false,
+  "runInBackground": false,
+  "buildScenes": [
+    "Assets/Scenes/ForestStudy.unity"
+  ]
+}

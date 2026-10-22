@@ -1,0 +1,85 @@
+{
+  "scene": "Assets/Scenes/SuperSpeed.unity",
+  "range": {
+    "level0": 70,
+    "level100": 200,
+    "worldUnits": "units/minute",
+    "displayLabel": "km/h"
+  },
+  "method": "10 game seconds settle + 10 game seconds measured per level on the owner's SuperSpeed straight; acceleration/turns/fuel levels unchanged.",
+  "rows": [
+    {
+      "level": 0,
+      "targetUnitsPerMinute": 70,
+      "actualUnitsPerMinute": 69.99999,
+      "averageFromDisplacement": 69.93027959804154,
+      "distanceUnits": 11.6577177,
+      "seconds": 10.002291801303853,
+      "min": 69.9993439,
+      "max": 70.01214,
+      "allowedUnitsPerMinute": 70,
+      "hud": "<b>70</b> <size=50%>km/h</size>",
+      "frames": 4103,
+      "fuel": 419.0888415251156,
+      "pass": true
+    },
+    {
+      "level": 1,
+      "targetUnitsPerMinute": 71.3,
+      "actualUnitsPerMinute": 71.29999,
+      "averageFromDisplacement": 71.35296412757027,
+      "distanceUnits": 11.8950834,
+      "seconds": 10.002457702664401,
+      "min": 71.2994461,
+      "max": 71.30925,
+      "allowedUnitsPerMinute": 71.3,
+      "hud": "<b>71</b> <size=50%>km/h</size>",
+      "frames": 3917,
+      "fuel": 416.59392734083264,
+      "pass": true
+    },
+    {
+      "level": 50,
+      "targetUnitsPerMinute": 135,
+      "actualUnitsPerMinute": 134.999969,
+      "averageFromDisplacement": 134.9317701101587,
+      "distanceUnits": 22.49146,
+      "seconds": 10.001259502551015,
+      "min": 134.999435,
+      "max": 135.0405,
+      "allowedUnitsPerMinute": 135,
+      "hud": "<b>135</b> <size=50%>km/h</size>",
+      "frames": 3849,
+      "fuel": 347.6235851773116,
+      "pass": true
+    },
+    {
+      "level": 100,
+      "targetUnitsPerMinute": 200,
+      "actualUnitsPerMinute": 200,
+      "averageFromDisplacement": 199.9313709629655,
+      "distanceUnits": 33.3281937,
+      "seconds": 10.00189019982993,
+      "min": 199.999283,
+      "max": 200.111435,
+      "allowedUnitsPerMinute": 200,
+      "hud": "<b>200</b> <size=50%>km/h</size>",
+      "frames": 3713,
+      "fuel": 280.1882722314156,
+      "pass": true
+    }
+  ],
+  "cardFormulaOnly": {
+    "permanent": 100,
+    "bonusPercent": 10,
+    "effective": 110,
+    "speed": 213
+  },
+  "restoration": {
+    "scene": "Assets/Scenes/SuperSpeed.unity",
+    "dirtyBefore": true,
+    "dirtyAfter": true,
+    "sameCarsIgnoringEnumerationOrder": true,
+    "background": false
+  }
+}

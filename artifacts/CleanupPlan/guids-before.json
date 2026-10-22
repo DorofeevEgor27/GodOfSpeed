@@ -1,0 +1,538 @@
+[
+  {
+    "path": "Assets/Settings/SampleSceneProfile.asset",
+    "guid": "10fc4df2da32a41aaa32d77bc913491c"
+  },
+  {
+    "path": "Assets/NewLayer 3.terrainlayer",
+    "guid": "3069688d2519abf40a3aef35320fa60e"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMPro.cginc",
+    "guid": "407bc68d299748449bbf7f48ee690f8d"
+  },
+  {
+    "path": "Assets/Materials/CarRedBox/Body_Greed_Unlit.mat",
+    "guid": "409f07e2aaac1774581f46f9fdb10664"
+  },
+  {
+    "path": "Assets/Square.prefab",
+    "guid": "5075df9b972640347a0dd8ad12e76f3a"
+  },
+  {
+    "path": "Assets/Textures/RoadDirt_Seamless_v1.terrainlayer",
+    "guid": "50d934e3c8434d279f692faa2148a1d8"
+  },
+  {
+    "path": "Assets/NewLayer 2.terrainlayer",
+    "guid": "60268a4c4d964f048b6942c61ca411d0"
+  },
+  {
+    "path": "Assets/Materials/ForestStudy/Trunk_Mat.mat",
+    "guid": "606c8e514645d7b4bb8c145b147482fd"
+  },
+  {
+    "path": "Assets/Textures/RoadDirt_Seamless_v1.png",
+    "guid": "70a99b01d46e4afb934df60677707816"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+    "guid": "a02a7d8c237544f1962732b55a9aebf1"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader",
+    "guid": "0178fcb869bafef4690d177d31d17db8"
+  },
+  {
+    "path": "Assets/Scripts/Editor/LocationTileRandomizerWindow.cs",
+    "guid": "2160856c1d3159f45beea6c7b8e715f9"
+  },
+  {
+    "path": "Assets/Scenes/Test/SplineExtrude_GameObject (1).asset",
+    "guid": "31dc7f3ccbc4cee4ab008276036b90f4"
+  },
+  {
+    "path": "Assets/Materials/CarRedBox/Seat_Unlit.mat",
+    "guid": "5173ef232b1110349b296040d3d3d999"
+  },
+  {
+    "path": "Assets/Readme.asset",
+    "guid": "8105016687592461f977c054a80ce2f2"
+  },
+  {
+    "path": "Assets/Prefabs/grass.fbx",
+    "guid": "d111bc304fb8bf7468983d3fcaad0072"
+  },
+  {
+    "path": "Assets/Scripts/Editor/ReviewVerification.cs",
+    "guid": "e1af5d42c2ca1764e89e607aa5072786"
+  },
+  {
+    "path": "Assets/Materials/Wheel.mat",
+    "guid": "02e6cac8f57d1df4c9e35ff414424716"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph",
+    "guid": "124c112a6e8f1a54e8b0870e881b56d8"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader",
+    "guid": "128e987d567d4e2c824d754223b3f3b0"
+  },
+  {
+    "path": "Assets/Scripts/Racing/PhysicsSplineCarDriver.cs",
+    "guid": "32c0573d672147ff9788c5f4fb414068"
+  },
+  {
+    "path": "Assets/Prefabs/PAREBRICK.fbx",
+    "guid": "528a82e9e8f0fab4cba74b65ea4796e3"
+  },
+  {
+    "path": "Assets/TutorialInfo/Icons/URP.png",
+    "guid": "727a75301c3d24613a3ebcec4a24c2c8"
+  },
+  {
+    "path": "Assets/Materials/Sprite-0002.png",
+    "guid": "c2cd3bf39419fe847bf746c5f8ae0c0d"
+  },
+  {
+    "path": "Assets/Settings/PC_Renderer.asset",
+    "guid": "f288ae1f4751b564a96ac7587541f7a2"
+  },
+  {
+    "path": "Assets/NewLayer 5.terrainlayer",
+    "guid": "13f093138cd70d549a5a1e1ad742befa"
+  },
+  {
+    "path": "Assets/NewLayer 8.terrainlayer",
+    "guid": "230f9f4ef7efb7f45af4291e9f70edba"
+  },
+  {
+    "path": "Assets/Scripts/Editor/SplineRoadVerification.cs",
+    "guid": "439e326124277224f852c8b3f857c698"
+  },
+  {
+    "path": "Assets/Prefabs/CarVariants/Car_RedBox.prefab",
+    "guid": "9372af677a179284b824e7ddeffe3f17"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph",
+    "guid": "a3d800b099a06e0478fb790c5e79057a"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc",
+    "guid": "c334973cef89a9840b0b0c507e0377ab"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+    "guid": "e3265ab4bf004d28a9537516768c1c75"
+  },
+  {
+    "path": "Assets/New Terrain.asset",
+    "guid": "f35946fad4dd14d478dfda6786ecb91b"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader",
+    "guid": "14eb328de4b8eb245bb7cea29e4ac00b"
+  },
+  {
+    "path": "Assets/Looker.controller",
+    "guid": "44399ebfa15dc38408422468fe3882fd"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset",
+    "guid": "c41005c129ba4d66911b75229fd70b45"
+  },
+  {
+    "path": "Assets/NewLayer 4.terrainlayer",
+    "guid": "c43c7939d52aeec4e95fee6e4a807c93"
+  },
+  {
+    "path": "Assets/InputSystem_Actions.inputactions",
+    "guid": "052faaac586de48259a63d0c4782560b"
+  },
+  {
+    "path": "Assets/Settings/Mobile_Renderer.asset",
+    "guid": "65bc7dbf4170f435aa868c779acfb082"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader",
+    "guid": "85187c2149c549c5b33f0cdb02836b17"
+  },
+  {
+    "path": "Assets/NewLayer 7.terrainlayer",
+    "guid": "95bb9b7215d579e4185f0a59ae0db61d"
+  },
+  {
+    "path": "Assets/Scripts/Racing/CarSpeedDisplay.cs",
+    "guid": "b5d9e040ff3a1b54fbe49146e10769a0"
+  },
+  {
+    "path": "Assets/Textures/Grass_Seamless_v1.png",
+    "guid": "46937eb556b648e28502426f21abdb99"
+  },
+  {
+    "path": "Assets/Prefabs/Looker.prefab",
+    "guid": "66a44ad6c5545424ca1b746524e3f7ec"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl",
+    "guid": "96de908384869cd409c75efa351d5edf"
+  },
+  {
+    "path": "Assets/Prefabs/road.fbx",
+    "guid": "d66ac44085a6f9d46997a5d68bb56c9d"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph",
+    "guid": "f63d574838ccfb44f84acc05fed0af48"
+  },
+  {
+    "path": "Assets/Materials/Wood.mat",
+    "guid": "2747874c1bb0f9a4998e3cc6cca35a81"
+  },
+  {
+    "path": "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs",
+    "guid": "476cc7d7cd9874016adc216baab94a0a"
+  },
+  {
+    "path": "Assets/Scripts/Racing/ConstantSplineMover.cs",
+    "guid": "6772a254ec5a5874a9be9c1aead22f98"
+  },
+  {
+    "path": "Assets/Screenshots/ForestStudyBeforeCar.png",
+    "guid": "9765bb74067d7e842b45a84a4ae68fa1"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat",
+    "guid": "e73a58f6e2794ae7b1b7e50b7fb811b0"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader",
+    "guid": "f7ada0af4f174f0694ca6a487b8f543d"
+  },
+  {
+    "path": "Assets/Materials/ForestStudy/Road_Mat.mat",
+    "guid": "0860c2a90af92564fa040cbd061be3a1"
+  },
+  {
+    "path": "Assets/Settings/UniversalRenderPipelineGlobalSettings.asset",
+    "guid": "18dc0cd2c080841dea60987a38ce93fa"
+  },
+  {
+    "path": "Assets/Prefabs/Ground.prefab",
+    "guid": "2811f9c14109b6841806b1c422049577"
+  },
+  {
+    "path": "Assets/Prefabs/roadtest2.fbx",
+    "guid": "28a46cd707ba96e48b3ead95bcd4d82a"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt",
+    "guid": "381dcb09d5029d14897e55f98031fca5"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader",
+    "guid": "48bb5f55d8670e349b6e614913f9d910"
+  },
+  {
+    "path": "Assets/Prefabs/locTest.fbx",
+    "guid": "58e04ca3ef8900344ba1f5dd5db5a35a"
+  },
+  {
+    "path": "Assets/Materials/Materials/Grass_Texture_f.mat",
+    "guid": "580ad4904f154a84883d67e154f6dff2"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+    "guid": "68e6db2ebdc24f95958faec2be5558d6"
+  },
+  {
+    "path": "Assets/NewLayer 6.terrainlayer",
+    "guid": "68a98e43ab0cc974b9894d1449e62d31"
+  },
+  {
+    "path": "Assets/Materials/Grass.terrainlayer",
+    "guid": "985a18fc07464954282ae0edc7cbcb4e"
+  },
+  {
+    "path": "Assets/UI/SpeedFont.asset",
+    "guid": "980bca0b5e18fdb4382e1e6d529b30e6"
+  },
+  {
+    "path": "Assets/Prefabs/Tree.prefab",
+    "guid": "b8d71f226d289484f89578fb94dc0213"
+  },
+  {
+    "path": "Assets/Materials/Wheel 1.mat",
+    "guid": "b8cceb256ef82594ba815ef6ee82bfb1"
+  },
+  {
+    "path": "Assets/Prefabs/Car.prefab",
+    "guid": "b8fcfeac8419ecf40bf7451d2635ed3b"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader",
+    "guid": "c8d12adcee749c344b8117cf7c7eb912"
+  },
+  {
+    "path": "Assets/Materials/Sprite-0003.png",
+    "guid": "d8f598bdd5ebdf44dbd0ade142cc7cab"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt",
+    "guid": "d82c1b31c7e74239bff1220585707d2b"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc",
+    "guid": "3997e2241185407d80309a82f9148466"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+    "guid": "79459efec17a4d00a321bdcc27bbc385"
+  },
+  {
+    "path": "Assets/Scenes/SampleScene.unity",
+    "guid": "99c9720ab356a0642a771bea13969a05"
+  },
+  {
+    "path": "Assets/Screenshots/ForestStudy.png",
+    "guid": "a93ddaaab4c5207409ad6500e65ee0d0"
+  },
+  {
+    "path": "Assets/Scenes/Test.unity",
+    "guid": "b9c1122e17b4625458e2f617da5fffe0"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc",
+    "guid": "d930090c0cd643c7b55f19a38538c162"
+  },
+  {
+    "path": "Assets/NewLayer.terrainlayer",
+    "guid": "d93a1b34712749149a933f7d04a5c1f2"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset",
+    "guid": "f952c082cb03451daed3ee968ac6c63e"
+  },
+  {
+    "path": "Assets/Prefabs/grass2.fbx",
+    "guid": "0aa8a420e231a0a4ab44348a9b26456e"
+  },
+  {
+    "path": "Assets/Prefabs/CarVariants/Car_PinkBox.prefab",
+    "guid": "2aa47e7320fe6e046a4fcb8d2029c725"
+  },
+  {
+    "path": "Assets/Prefabs/Grass.prefab",
+    "guid": "4a57181e4cac50949867225073b72d8d"
+  },
+  {
+    "path": "Assets/Materials/ForestStudy/Crown_Mat.mat",
+    "guid": "4abd695f81deb79418e03048c3765173"
+  },
+  {
+    "path": "Assets/Materials/ForestStudy/Crown_Dark_Mat.mat",
+    "guid": "5a0949a5d2b209746a68bd002b628cce"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph",
+    "guid": "ca2ed216f98028c4dae6c5224a952b3c"
+  },
+  {
+    "path": "Assets/Prefabs/CarVariants/Car_GreenBox.prefab",
+    "guid": "da08c0526c3d28e4bba5433641d5f74b"
+  },
+  {
+    "path": "Assets/123.png",
+    "guid": "daf8f7bf5874c9d41983b66abd7a87c4"
+  },
+  {
+    "path": "Assets/TutorialInfo/Layout.wlt",
+    "guid": "eabc9546105bf4accac1fd62a63e88e6"
+  },
+  {
+    "path": "Assets/Materials/Sprite-0001.png",
+    "guid": "fa7980f7b253a9743aee806f45736f25"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt",
+    "guid": "fade42e8bc714b018fac513c043d323b"
+  },
+  {
+    "path": "Assets/Materials/GrassLight.mat",
+    "guid": "4b10b7b761fb6374cac8fe8dcb17a3e0"
+  },
+  {
+    "path": "Assets/Settings/PC_RPAsset.asset",
+    "guid": "4b83569d67af61e458304325a23e5dfd"
+  },
+  {
+    "path": "Assets/Settings/DefaultVolumeProfile.asset",
+    "guid": "ab09877e2e707104187f6f83e2f62510"
+  },
+  {
+    "path": "Assets/Materials/Metall.mat",
+    "guid": "9cb6883ac7b4e514b905b456e28612cb"
+  },
+  {
+    "path": "Assets/Prefabs/groundTest.fbx",
+    "guid": "acd74ce95f68e524681808f3e399f0a2"
+  },
+  {
+    "path": "Assets/Materials/Grass_Texture_f.png",
+    "guid": "bc0bacf472803be468a72b53ae8468be"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader",
+    "guid": "bc1ede39bf3643ee8e493720e4259791"
+  },
+  {
+    "path": "Assets/NewLayer 1.terrainlayer",
+    "guid": "cc88e49f8eba850489328fc74ead63b5"
+  },
+  {
+    "path": "Assets/TutorialInfo/Scripts/Readme.cs",
+    "guid": "fcf7219bab7fe46a1ad266029b2fee19"
+  },
+  {
+    "path": "Assets/Materials/Ground.mat",
+    "guid": "0d26e657101eb6b489d21201f5359cfe"
+  },
+  {
+    "path": "Assets/Scripts/Racing/SplineRoad.cs",
+    "guid": "2d7c56388b55748409fea039f9dbdd49"
+  },
+  {
+    "path": "Assets/Prefabs/Stand.prefab",
+    "guid": "4dcec5816d29c784b8b54d42d5739fa5"
+  },
+  {
+    "path": "Assets/Prefabs/Bush.prefab",
+    "guid": "5d152cdb05b475b4fad9bba262d33681"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+    "guid": "dd89cf5b9246416f84610a006f916af7"
+  },
+  {
+    "path": "Assets/Materials/Red.mat",
+    "guid": "eded53485b532034f88b1e6d84da4fdb"
+  },
+  {
+    "path": "Assets/Materials/ForestStudy/Crown_Light_Mat.mat",
+    "guid": "1eb955bca4b32604b815ab113ae03c18"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader",
+    "guid": "1e3b057af24249748ff873be7fafee47"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+    "guid": "2e498d1c8094910479dc3e1b768306a4"
+  },
+  {
+    "path": "Assets/Prefabs/roadtest4.fbx",
+    "guid": "5eb1a6b80f86de3498c2c85e6d2a2c63"
+  },
+  {
+    "path": "Assets/Materials/Grass.mat",
+    "guid": "5e5ae8337d0208d4b9108f42ac4797d3"
+  },
+  {
+    "path": "Assets/Settings/Mobile_RPAsset.asset",
+    "guid": "5e6cbd92db86f4b18aec3ed561671858"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt",
+    "guid": "6e59c59b81ab47f9b6ec5781fa725d2c"
+  },
+  {
+    "path": "Assets/Prefabs/RoadTest.prefab",
+    "guid": "7e27db55db926a143afc2f4c5f38bbd5"
+  },
+  {
+    "path": "Assets/Materials/CarRedBox/Body_Red_Unlit.mat",
+    "guid": "8e614ab3adce7f040b9290468df99652"
+  },
+  {
+    "path": "Assets/Looker.anim",
+    "guid": "9efd6f3ce2d623f4e83b1a87b78da131"
+  },
+  {
+    "path": "Assets/Materials/CarRedBox/Body_Pink_Unlit.mat",
+    "guid": "ae0b4bc0f77002744b9e92a231d8ca91"
+  },
+  {
+    "path": "Assets/Scenes/SampleScene/GameObject Profile.asset",
+    "guid": "bece361258614a44a84437759ae00ac7"
+  },
+  {
+    "path": "Assets/Materials/CarRedBox/Body_Blue_Unlit.mat",
+    "guid": "dec0cf78175e891459db9a4b8649d811"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+    "guid": "fe393ace9b354375a9cb14cdbbc28be4"
+  },
+  {
+    "path": "Assets/Materials/GrassDark.mat",
+    "guid": "1f2edcd926de6424389b75c2d01818fc"
+  },
+  {
+    "path": "Assets/Textures/Grass_Seamless_v1.terrainlayer",
+    "guid": "2fc28543034a4c59b9540e37afa9d77a"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/TMP Settings.asset",
+    "guid": "3f5b5dff67a942289a9defa416b206f3"
+  },
+  {
+    "path": "Assets/Prefabs/Car_RedBox.prefab",
+    "guid": "5f385463118e2a24983faf0175ff14c2"
+  },
+  {
+    "path": "Assets/Materials/Yellow.mat",
+    "guid": "5f3deb249f9d8464197ebf8c40aa3e38"
+  },
+  {
+    "path": "Assets/Prefabs/roadtest3.fbx",
+    "guid": "6ff9a862d1980c94eb8debf10906c4d6"
+  },
+  {
+    "path": "Assets/Scenes/ForestStudy.unity",
+    "guid": "6f1b75e6a4b684a40bfead3bf7e87549"
+  },
+  {
+    "path": "Assets/Materials/CarRedBox/Wheels_Unlit.mat",
+    "guid": "7fa55cadd0756ef40847f0a8a2022b98"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Sprites/EmojiOne.json",
+    "guid": "8f05276190cf498a8153f6cbe761d4e6"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+    "guid": "8f586378b4e144a9851e7b34d9b748ee"
+  },
+  {
+    "path": "Assets/Materials/ForestStudy/Ground_Mat.mat",
+    "guid": "9f89372c384725d498afba9df2752344"
+  },
+  {
+    "path": "Assets/Scripts/Editor/TerrainSplineRoadPainterWindow.cs",
+    "guid": "9f2c61e1224b4664ba9600e2b67e9e5d"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader",
+    "guid": "cf81c85f95fe47e1a27f6ae460cf182c"
+  },
+  {
+    "path": "Assets/TextMesh Pro/Sprites/EmojiOne.png",
+    "guid": "dffef66376be4fa480fb02b19edbe903"
+  },
+  {
+    "path": "Assets/Prefabs/CarVariants/Car_BlueBox.prefab",
+    "guid": "ef3b06ec08964e6499ea019b550f332f"
+  }
+]

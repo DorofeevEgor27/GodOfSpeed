@@ -1,0 +1,72 @@
+[
+  {
+    "from": "Assets/Prefabs/Car_RedBox.prefab",
+    "to": "Assets/Prefabs/Cars/Car_Base.prefab",
+    "guid": "5f385463118e2a24983faf0175ff14c2"
+  },
+  {
+    "from": "Assets/Prefabs/CarVariants",
+    "to": "Assets/Prefabs/Cars/Variants",
+    "guid": "0dc16f28d52d9ca418afde3c05c890e0"
+  },
+  {
+    "from": "Assets/Prefabs/Car.prefab",
+    "to": "Assets/Prefabs/Cars/Legacy/Car.prefab",
+    "guid": "b8fcfeac8419ecf40bf7451d2635ed3b"
+  },
+  {
+    "from": "Assets/Materials/CarRedBox",
+    "to": "Assets/Materials/Cars",
+    "guid": "e2fc96736d046154f934ae0e47351a75"
+  },
+  {
+    "from": "Assets/Materials/ForestStudy",
+    "to": "Assets/Materials/Environment",
+    "guid": "e10f86020398c0542afad1e9ca9a83c9"
+  },
+  {
+    "from": "Assets/Scripts/Racing/PhysicsSplineCarDriver.cs",
+    "to": "Assets/Scripts/Vehicles/PhysicsSplineCarDriver.cs",
+    "guid": "32c0573d672147ff9788c5f4fb414068"
+  },
+  {
+    "from": "Assets/Scripts/Racing/SplineRoad.cs",
+    "to": "Assets/Scripts/Track/SplineRoad.cs",
+    "guid": "2d7c56388b55748409fea039f9dbdd49"
+  },
+  {
+    "from": "Assets/Scripts/Racing/CarSpeedDisplay.cs",
+    "to": "Assets/Scripts/UI/CarSpeedDisplay.cs",
+    "guid": "b5d9e040ff3a1b54fbe49146e10769a0"
+  },
+  {
+    "from": "Assets/InputSystem_Actions.inputactions",
+    "to": "Assets/Input/InputSystem_Actions.inputactions",
+    "guid": "052faaac586de48259a63d0c4782560b"
+  },
+  {
+    "from": "Assets/Materials/Ground.mat",
+    "to": "Assets/Materials/Cars/Legacy/Ground.mat",
+    "guid": "0d26e657101eb6b489d21201f5359cfe"
+  },
+  {
+    "from": "Assets/Materials/Metall.mat",
+    "to": "Assets/Materials/Cars/Legacy/Metall.mat",
+    "guid": "9cb6883ac7b4e514b905b456e28612cb"
+  },
+  {
+    "from": "Assets/Materials/Red.mat",
+    "to": "Assets/Materials/Cars/Legacy/Red.mat",
+    "guid": "eded53485b532034f88b1e6d84da4fdb"
+  },
+  {
+    "from": "Assets/Materials/Wheel.mat",
+    "to": "Assets/Materials/Cars/Legacy/Wheel.mat",
+    "guid": "02e6cac8f57d1df4c9e35ff414424716"
+  },
+  {
+    "from": "Assets/Materials/Wood.mat",
+    "to": "Assets/Materials/Cars/Legacy/Wood.mat",
+    "guid": "2747874c1bb0f9a4998e3cc6cca35a81"
+  }
+]

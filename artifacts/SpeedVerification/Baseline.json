@@ -1,0 +1,66 @@
+{
+  "done": true,
+  "report": [
+    {
+      "level": 0,
+      "targetUnitsPerMinute": 70,
+      "actualUnitsPerMinute": 69.3068,
+      "averageFromDisplacement": 69.3762477401547,
+      "distanceUnits": 11.566165,
+      "seconds": 10.002989795918438,
+      "min": 69.3068,
+      "max": 69.30707,
+      "allowedUnitsPerMinute": 70,
+      "hud": "<b>69</b> <size=50%>km/h</size>",
+      "frames": 3395,
+      "fuel": 420.4246353304337,
+      "pass": false
+    },
+    {
+      "level": 1,
+      "targetUnitsPerMinute": 71.3,
+      "actualUnitsPerMinute": 70.59403,
+      "averageFromDisplacement": 70.67296399025196,
+      "distanceUnits": 11.779788,
+      "seconds": 10.000815603741557,
+      "min": 70.59401,
+      "max": 70.59421,
+      "allowedUnitsPerMinute": 71.3,
+      "hud": "<b>71</b> <size=50%>km/h</size>",
+      "frames": 2952,
+      "fuel": 418.08628283611546,
+      "pass": false
+    },
+    {
+      "level": 50,
+      "targetUnitsPerMinute": 135,
+      "actualUnitsPerMinute": 133.6631,
+      "averageFromDisplacement": 133.66501947740295,
+      "distanceUnits": 22.2778358,
+      "seconds": 10.000149298469296,
+      "min": 133.66272,
+      "max": 133.663254,
+      "allowedUnitsPerMinute": 135,
+      "hud": "<b>134</b> <size=50%>km/h</size>",
+      "frames": 2453,
+      "fuel": 349.54703480191495,
+      "pass": false
+    },
+    {
+      "level": 100,
+      "targetUnitsPerMinute": 200,
+      "actualUnitsPerMinute": 197.952225,
+      "averageFromDisplacement": 197.91368595321399,
+      "distanceUnits": 32.98951,
+      "seconds": 10.001180895691505,
+      "min": 197.951981,
+      "max": 197.953461,
+      "allowedUnitsPerMinute": 200,
+      "hud": "<b>198</b> <size=50%>km/h</size>",
+      "frames": 3242,
+      "fuel": 282.58869099441176,
+      "pass": false
+    }
+  ],
+  "damping": 0
+}

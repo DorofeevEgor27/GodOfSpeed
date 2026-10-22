@@ -1,0 +1,22 @@
+[
+  {
+    "limit": 30.0,
+    "pass": true,
+    "maxSpeed": 29.49298,
+    "maxCrossTrack": 0.869798362,
+    "maxLeadExcess": 0.0,
+    "travelled": 336.3175,
+    "laps": 3,
+    "frozenDrift": 3.43852162E-06
+  },
+  {
+    "limit": 150.0,
+    "pass": true,
+    "maxSpeed": 38.3148041,
+    "maxCrossTrack": 0.9252276,
+    "maxLeadExcess": 0.0,
+    "travelled": 340.837036,
+    "laps": 3,
+    "frozenDrift": 0.0
+  }
+]

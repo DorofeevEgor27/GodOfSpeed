@@ -1,0 +1,8 @@
+# Project defaults. Desktop task selections may override these values.
+model = "gpt-6-astra"
+model_reasoning_effort = "high"
+plan_mode_reasoning_effort = "high"
+
+[mcp_servers.unity]
+command = "C:\\Users\\dorof\\AppData\\Local\\Unity\\bin\\unity.exe"
+args = ["mcp","--project-path","C:\\GodOfSpeed\\GodOfSpeed"]

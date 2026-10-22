@@ -1,0 +1,16 @@
+[
+  {
+    "level": 1,
+    "acceleration": 1.0,
+    "speedAfterTwoSeconds": 5.181797,
+    "moved": 1.33786476,
+    "grounded": 3
+  },
+  {
+    "level": 100,
+    "acceleration": 25.75,
+    "speedAfterTwoSeconds": 10.6892309,
+    "moved": 2.82890821,
+    "grounded": 3
+  }
+]
